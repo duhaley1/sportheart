@@ -2,9 +2,13 @@
 
 开发者 / Developer: **duhaley**
 
+联系 / Contact: **924323178@qq.com**
+
+一键开启传感器 BLE 通信，让手表成为心率带更简单。
+
 Apple Watch 运动心率工具：基础实时心率、手表直连和手机桥接 BLE 通信永久免费。断联提醒、训练区间提醒、灵动岛与锁屏显示等可选一次买断，无订阅。
 
-Apple Watch heart rate for compatible BLE sports equipment. Basic heart rate and both BLE modes are free forever. Training Pro is an optional one-time purchase, with no subscription.
+Apple Watch heart rate for compatible BLE sports equipment. Basic heart rate and both BLE modes are free forever. Sport Heart Assistant Pro is an optional one-time purchase, with no subscription.
 
 | 语言 / Language | 应用支持 / Support | 隐私协议 / Privacy |
 |---|---|---|
