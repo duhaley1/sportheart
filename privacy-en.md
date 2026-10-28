@@ -1,4 +1,4 @@
-# Sport Heart Assistant Privacy Policy
+Sport Heart Assistant Privacy Policy
 Developer: duhaley
 Effective: October 28, 2026
 Support and contact: https://gitcode.com/duhaley/sportheart
@@ -34,3 +34,6 @@ The app provides workout feedback, not medical diagnosis, a medical device or an
 
 10. Changes and contact
 We update this policy when material functionality or processing changes. Policy files and support are available at https://gitcode.com/duhaley/sportheart . Contact developer duhaley through the repository's feedback facilities.
+
+
+Nearby iPad display: This free feature is off by default. When you enable it, the app uses the local network and Bonjour to discover nearby devices. iPad must enter the random session code and iPhone must approve before current heart rate, sample time and zone category are shared over TLS encryption. The code is held only in memory and expires when sharing stops. Age, resting heart rate, history and purchase entitlements are not shared. iPad displays only the current reading in memory; it does not store heart-rate history, pair with Apple Watch or relay BLE. Keep both apps in the foreground. Stopping, backgrounding or disconnecting ends sharing, and expired readings disappear. The developer cannot access this local connection.
