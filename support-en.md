@@ -51,3 +51,6 @@ For exercise feedback only, not medical diagnosis or emergency alerts. Stop exer
 ## Run checks
 
 Settings → Connection Diagnostics → Runtime & Battery Records. Start collection on Home to record automatically; opening the page does not start a workout. Sync or share the latest summary without individual heart samples or receiver identities. Whole-device battery rates require at least 30 minutes and are not estimated during charging or interrupted runs.
+
+
+Nearby iPad display: This free feature is off by default. When you enable it, the app uses the local network and Bonjour to discover nearby devices. iPad must enter the random session code and iPhone must approve before current heart rate, sample time and zone category are shared over TLS encryption. The code is held only in memory and expires when sharing stops. Age, resting heart rate, history and purchase entitlements are not shared. iPad displays only the current reading in memory; it does not store heart-rate history, pair with Apple Watch or relay BLE. Keep both apps in the foreground. Stopping, backgrounding or disconnecting ends sharing, and expired readings disappear. The developer cannot access this local connection.
