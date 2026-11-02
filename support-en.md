@@ -1,6 +1,6 @@
 # Sport Heart Assistant · App Support
 
-Developer: duhaley. Contact: 924323178@qq.com. Support: [sportheart repository](https://gitcode.com/duhaley/sportheart).
+Developer: duhaley. Contact: 924323178@qq.com. Support: [sportheart repository](https://github.com/duhaley1/sportheart).
 
 ## Getting started
 
@@ -40,7 +40,7 @@ Requires Sport Heart Assistant Pro and system Live Activity support. After colle
 
 Save to Apple Health is optional and applies to the next workout. Disable it to avoid duplicate records when equipment also records workouts. Uninstalling the app does not delete workouts already saved in Health; manage them in Health.
 
-No health data is uploaded to developer servers. There is no developer account, advertising or analytics SDK. Apple Health syncing, Apple payments and receiving equipment's cloud services have their own policies. Read the [Privacy Policy](../privacy/en.md).
+No health data is uploaded to developer servers. There is no developer account, advertising or analytics SDK. Apple Health syncing, Apple payments and receiving equipment's cloud services have their own policies. Read the [Privacy Policy](privacy-en.md).
 
 ## Contact
 

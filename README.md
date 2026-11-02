@@ -27,3 +27,9 @@ Requires a standard BLE Heart Rate receiver; compatibility varies by model. Exer
 Use this repository's feedback facilities for support. Do not post health records, Apple Account details, payment receipts or device identifiers publicly.
 
 本仓库提供支持与隐私文件。HTML 政策页源文件也在本目录下；HTML 文件本身不代表已经启用静态网站托管。
+
+## 支持与隐私网站 / Support & Privacy Website
+
+https://duhaley1.github.io/sportheart/
+
+三种语言的支持和隐私页面可直接阅读，不要求登录 GitHub。仓库保留 GitCode 原提交历史。

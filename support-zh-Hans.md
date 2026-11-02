@@ -1,6 +1,6 @@
 # 运动心率助手 · 应用支持
 
-开发者：duhaley。联系邮箱：924323178@qq.com。反馈入口：[sportheart 仓库](https://gitcode.com/duhaley/sportheart)。
+开发者：duhaley。联系邮箱：924323178@qq.com。反馈入口：[sportheart 仓库](https://github.com/duhaley1/sportheart)。
 
 ## 开始使用
 
@@ -40,7 +40,7 @@
 
 保存到 Apple 健康为可选开关，用于下一次开始的运动。其他设备已经记录时可关闭以避免重复。卸载 App 不会删除已保存到健康的运动，需在健康 App 中自行管理。
 
-不向开发者服务器上传健康数据；没有开发者账号、广告或分析 SDK。Apple 的健康同步、付款，以及接收设备自己的云同步分别受相应服务政策约束。详见[隐私政策](../privacy/zh-Hans.md)。
+不向开发者服务器上传健康数据；没有开发者账号、广告或分析 SDK。Apple 的健康同步、付款，以及接收设备自己的云同步分别受相应服务政策约束。详见[隐私政策](privacy-zh-Hans.md)。
 
 ## 联系与反馈
 

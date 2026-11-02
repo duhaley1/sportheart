@@ -1,0 +1,25 @@
+{
+  "source": "https://gitcode.com/duhaley/sportheart",
+  "source_revision": "080fd6db10a70ecab1b830b942a8f4d2dfce3a24",
+  "destination": "https://github.com/duhaley1/sportheart",
+  "planned_site": "https://duhaley1.github.io/sportheart/",
+  "scope": "Previously public support/privacy repository only; app source and local diagnostics excluded.",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "README.md": "347537dd5e4e36a3ae16d0a42f44c56780299fa01e8eee424066bddfdeb6315a",
+    "index.html": "e0bb9117c52fc0e7ed65414adbd88c195f9b2b0d9b52bb99a35b571d245406d6",
+    "privacy-en.html": "925b698cc9f3ce6344c5ae109a39422db74035893dfa989a839be98ddb95154b",
+    "privacy-en.md": "877d639b6dbefd87a53f592cbd813c8c870e8a6650cb7bc7f537d38d52c449be",
+    "privacy-zh-Hans.html": "3ae125dc223c3e0722407b4ddd1311c3917e9932b7216244e3d5407d1ea17d06",
+    "privacy-zh-Hans.md": "b6ef0d0a651502a7e081f939a9492e33b47f9eafcc829d12dddb61f4244d1fc5",
+    "privacy-zh-Hant.html": "62b5e8a46dfc890d88459d887a7cb7decb1cd893f54f5e59ea93563c78ecc027",
+    "privacy-zh-Hant.md": "4c12aaea780ae5cfe84e5e0926a91bcb8b73adf7cf23564f450a020f45a9deda",
+    "site.css": "34069ed88bd0b39bd1aba57d43cafdb30016775b04b6e00faa708559081008d0",
+    "support-en.html": "227931b19923c979f02a1ad5c1d4a47af5aaaec79ab05e16feda7204a216b824",
+    "support-en.md": "18a7eabeb7c43d9dcc7edd4cb8ee25675d84f1970d382da90bc15d5c31ec6785",
+    "support-zh-Hans.html": "db863183cc1349014e18093c1a392e21123c712a5eb4db6daab83562fecadb11",
+    "support-zh-Hans.md": "a80aaa73c9410299dd4f632ffed18618f1f2ebae112e80a359dc240b7a707dbb",
+    "support-zh-Hant.html": "6373f9310a0df8487495cb75f6bf8200134734747c70038be7aa8978b6693614",
+    "support-zh-Hant.md": "c663d804a893593c7f79c23a28f896de21fc31168d39f06297fb23e58f3aec16"
+  }
+}
