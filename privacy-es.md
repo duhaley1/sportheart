@@ -1,0 +1,38 @@
+Política de privacidad de Sport Heart Assistant
+Desarrollador: duhaley
+En vigor: 28 de octubre de 2026
+Soporte y contacto: https://duhaley1.github.io/sportheart/
+Correo electrónico de contacto: 924323178@qq.com
+
+1. Qué procesa la aplicación
+Sport Heart Assistant es una herramienta local para seguir la frecuencia cardíaca durante el entrenamiento. Después de iniciar una sesión, Apple Watch lee la frecuencia cardíaca del entrenamiento y la envía localmente a un equipo compatible, directamente a través de BLE o a través de su iPhone. No ofrecemos cuentas de usuario del desarrollador ni servidores de datos de salud, y no incorporamos SDK de publicidad o análisis. La frecuencia cardíaca, los entrenamientos, la edad y la frecuencia cardíaca en reposo no se cargan en un servidor del desarrollador.
+
+2. Permisos y finalidad
+El permiso de Salud permite leer la frecuencia cardíaca durante el entrenamiento. Solo si habilitas Guardar en Salud de Apple la aplicación guarda un entrenamiento que inicias y finalizas intencionalmente. Desactivar el registro no desactiva la comunicación básica de frecuencia cardíaca. Bluetooth admite el envío de frecuencia cardíaca BLE estándar y el estado de conexión. La sesión de entrenamiento y el procesamiento en segundo plano permiten mantener la sesión activa. Administre permisos en Configuración del sistema o Salud.
+
+3. Almacenamiento local
+El último resumen operativo almacena la hora de inicio, la duración registrada, los cambios de batería del dispositivo, los modos de comunicación y los recuentos de conexiones localmente para sus propias comprobaciones a largo plazo. No contiene historial de frecuencia cardíaca ni identidad del receptor. Una nueva sesión reemplaza el resumen anterior.
+El modo de comunicación, las preferencias de alerta, las zonas personalizadas, la edad y las frecuencias cardíacas de referencia se almacenan en sus dispositivos. Su reloj emparejado y su iPhone intercambian estados y configuraciones utilizando los marcos de comunicación complementarios de Apple. La aplicación no crea una base de datos histórica latido a latido. Salud de Apple gestiona los entrenamientos guardados; la sincronización o copia de seguridad de Apple depende de la configuración de su sistema y no supone un envío de datos al desarrollador.
+
+4. Equipo y Bluetooth cercano
+La frecuencia cardíaca válida actual se envía solo después de comenzar o reanudar; no se inventan las lecturas que faltan. La comunicación ordinaria de frecuencia cardíaca BLE no es un canal privado de extremo a extremo. Los dispositivos cercanos capaces de recibir notificaciones del servicio BLE estándar pueden leer estos datos. Los ciclocomputadores, las cintas de correr y otros receptores pueden guardar o cargar lecturas según sus propias políticas. La aplicación no controla esos servicios. Detén tu sesión para dejar de enviar.
+
+5. Dynamic Island y pantalla de bloqueo
+Cuando esta función está habilitada, las interfaces del sistema pueden mostrar la frecuencia cardíaca y el estado en la pantalla de bloqueo, Dynamic Island o los dispositivos sincronizados por el sistema. Las personas que pueden ver su pantalla pueden ver esa información. Las actualizaciones pueden retrasarse y los datos obsoletos están marcados; no se garantizan las actualizaciones segundo a segundo ni el funcionamiento continuo después de forzar el cierre. Desactiva esta visualización o usa los controles de privacidad del sistema según necesites.
+
+6. Compras únicas
+La frecuencia cardíaca básica y la comunicación BLE directa desde el reloj o mediante el iPhone siguen siendo gratuitas. Sport Heart Assistant Pro es una compra opcional no consumible, sin suscripción ni renovación automática. La App Store se encarga de pagos, transacciones, restauración y reembolsos. La aplicación utiliza derechos verificados por Apple para desbloquear funciones, no recibe datos de la tarjeta y no envía datos de salud ni de transacciones a un servidor del desarrollador. El procesamiento de Apple se rige por las políticas de Apple.
+
+7. Soporte, registros y enlaces externos
+Los diagnósticos contienen estados, recuentos y errores, no un historial de frecuencia cardíaca agregado intencionalmente. Los registros salen de la aplicación solo cuando los compartes explícitamente. Revísalos antes de compartirlos. El soporte de GitHub, los servicios de pago de Apple y los enlaces de referencia que abra tienen sus propias políticas. No publique registros médicos, detalles de la cuenta Apple, recibos de compra o identificadores de dispositivos en incidencias públicas del repositorio.
+
+8. Tus elecciones
+Puedes detener la medición y el envío, desactivar las alertas o la visualización y revocar los permisos en cualquier momento. Edita las preferencias localmente. Al eliminar la aplicación, se eliminan sus datos locales, sujetos al comportamiento de copia de seguridad del sistema. La desinstalación no elimina los entrenamientos ya guardados en Salud; gestiónalos en la aplicación Salud. No se crea ninguna cuenta de usuario del desarrollador, por lo que no se necesita un proceso para eliminarla. El historial de transacciones de Apple no se elimina al desinstalar.
+
+9. Alcance
+La aplicación proporciona información sobre el entrenamiento, no un diagnóstico médico, un dispositivo médico o una alarma de emergencia. Las zonas predeterminadas y las fórmulas de edad son referencias generales para adultos, no consejos médicos personalizados ni garantías de seguridad. Deje de hacer ejercicio si no se siente bien y busque ayuda adecuada; no confíe en las alertas para determinar la seguridad. El editor de parámetros de referencia está destinado a adultos, no específicamente a niños.
+
+10. Cambios y contacto
+Actualizamos esta política cuando cambian funciones importantes o el tratamiento de los datos. Los archivos de políticas y el soporte están disponibles en https://duhaley1.github.io/sportheart/. Póngase en contacto con el desarrollador duhaley a través de las funciones de comentarios del repositorio.
+
+Pantalla de un iPad cercano: esta función gratuita está desactivada de forma predeterminada. Cuando la habilitas, la aplicación utiliza la red local y Bonjour para descubrir dispositivos cercanos. Debes introducir el código aleatorio de la sesión en el iPad y aprobar el uso compartido en el iPhone antes de que la frecuencia cardíaca actual, la hora de la medición y la categoría de zona se compartan a través del cifrado TLS. El código se guarda solo en la memoria y caduca cuando se deja de compartir. La edad, la frecuencia cardíaca en reposo, el historial y los derechos de compra no se comparten. El iPad muestra sólo la lectura actual en la memoria; no almacena el historial de frecuencia cardíaca, no se empareja con Apple Watch ni retransmite datos por BLE. Mantenga ambas aplicaciones en primer plano. Finalizar la sesión, pasar a segundo plano o desconectar detiene el uso compartido y las lecturas caducadas desaparecen. El desarrollador no puede acceder a esta conexión local.

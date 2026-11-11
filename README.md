@@ -15,6 +15,12 @@ Apple Watch heart rate for compatible BLE sports equipment. Basic heart rate and
 | 简体中文 | [应用支持](support-zh-Hans.md) | [隐私政策](privacy-zh-Hans.md) |
 | 繁體中文 | [應用程式支援](support-zh-Hant.md) | [隱私權政策](privacy-zh-Hant.md) |
 | English | [App Support](support-en.md) | [Privacy Policy](privacy-en.md) |
+| 日本語 | [サポート](support-ja.md) | [プライバシーポリシー](privacy-ja.md) |
+| Deutsch | [Support](support-de.md) | [Datenschutz](privacy-de.md) |
+| Français | [Assistance](support-fr.md) | [Confidentialité](privacy-fr.md) |
+| Español | [Soporte](support-es.md) | [Privacidad](privacy-es.md) |
+| Português (Brasil) | [Suporte](support-pt-BR.md) | [Privacidade](privacy-pt-BR.md) |
+| 한국어 | [지원](support-ko.md) | [개인정보 처리방침](privacy-ko.md) |
 
 不向开发者服务器上传健康数据。No health data is uploaded to developer servers.
 
