@@ -14,7 +14,14 @@ Developer: duhaley. Contact: 924323178@qq.com. Support: [sportheart repository](
 
 Basic live heart rate, direct Watch and iPhone bridge BLE, Start, Pause and End are free forever, without session-time or usage-count limits. Optional Apple Health workout saving is also free.
 
-Sport Heart Assistant Pro is one optional non-consumable purchase covering disconnect alerts, default aerobic above-limit alerts, Dynamic Island and Lock Screen display, five custom zones, reference calculations and advanced feedback. No subscription or automatic renewal. The App Store purchase sheet shows the final price. Use Restore Purchases in Settings with the same Apple Account. Both devices verify the same product; separate purchases are not required.
+Sport Heart Assistant Pro
+• Watch haptic alerts when connected equipment disconnects.
+• Above-limit alerts for the default aerobic zone.
+• Five customizable zones: Recovery, Fat Burn, Aerobic, Anaerobic and Peak.
+• Adult reference calculations or manually entered boundaries.
+• Alerts for sustained readings outside your chosen zone, with optional below-zone and return-to-zone feedback.
+• Heart rate on Dynamic Island and the Lock Screen, with zone-based number colors.
+Choose a monthly subscription, an annual subscription or a lifetime purchase for the same Pro features. Existing lifetime purchases remain valid. Monthly plans renew monthly; annual plans are prepaid and renew yearly. The purchase screen shows the current price and validity. Manage or cancel renewal in your Apple Account subscription settings. Lifetime purchases do not renew. Restore Purchases is available.
 
 Basic heart rate and both BLE modes remain available when purchases are pending, unavailable or incomplete. Product availability depends on the released App Store version. If Watch has not yet unlocked, confirm network access and the same Apple Account, then reopen the app before trying again. Avoid paying a second time.
 
@@ -54,3 +61,11 @@ Settings → Connection Diagnostics → Runtime & Battery Records. Start collect
 
 
 Nearby iPad display: This free feature is off by default. When you enable it, the app uses the local network and Bonjour to discover nearby devices. iPad must enter the random session code and iPhone must approve before current heart rate, sample time and zone category are shared over TLS encryption. The code is held only in memory and expires when sharing stops. Age, resting heart rate, history and purchase entitlements are not shared. iPad displays only the current reading in memory; it does not store heart-rate history, pair with Apple Watch or relay BLE. Keep both apps in the foreground. Stopping, backgrounding or disconnecting ends sharing, and expired readings disappear. The developer cannot access this local connection.
+
+
+## 1.2.0
+
+Garmin heart-rate connection (free)
+Send live heart rate through iPhone to an Edge 530 using the companion SportHeart Connect IQ data field. Pair a physical device in Garmin Connect, separately install the field and add it to a cycling page. The field is currently a development sideload and is not yet published in the Connect IQ Store. Use Phone bridge mode and explicitly enable sharing. Optionally save a developer heart-rate field in the FIT activity; Garmin may sync activities according to your settings. This does not replace native Garmin heart-rate sensors or guarantee training-load calculations. Other models are not implied to be compatible.
+
+Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

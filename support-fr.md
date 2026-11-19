@@ -14,7 +14,14 @@ Développeur : duhaley. Contact : 924323178@qq.com. Support : [dépôt sporthea
 
 La fréquence cardiaque en direct, la transmission BLE directe depuis la Watch et le relais BLE par iPhone, ainsi que Démarrer, Pause et Terminer, restent gratuits sans limite de durée ni de nombre de séances. L’enregistrement facultatif des entraînements dans Apple Santé est également gratuit.
 
-Sport Heart Assistant Pro est un achat non consommable en option couvrant les alertes de déconnexion, les alertes de dépassement de la limite de la zone aérobie par défaut, le Dynamic Island et l'affichage de l'écran verrouillé, cinq zones personnalisées, des calculs de référence et des retours d’entraînement avancés. Pas d'abonnement ni de renouvellement automatique. La fenêtre d’achat de l’App Store indique le prix final. Utilisez Restaurer les achats dans Réglages avec le même compte Apple. Les deux appareils vérifient le même produit ; des achats séparés ne sont pas nécessaires.
+Sport Heart Assistant Pro
+• Alertes haptiques sur la montre lorsque l’équipement connecté se déconnecte.
+• Alertes de dépassement de la limite haute de la zone aérobie par défaut.
+• Cinq zones personnalisables : Récupération, Brûle-graisses, Aérobie, Anaérobie et Maximum.
+• Calcul de référence pour adultes ou limites saisies manuellement.
+• Alertes si vous restez hors de la zone choisie, avec retour facultatif sous la zone et au retour.
+• Fréquence cardiaque dans la Dynamic Island et sur l’écran verrouillé, avec des chiffres colorés selon la zone.
+Choisissez un abonnement mensuel, annuel ou un achat à vie pour les mêmes fonctions Pro. Les achats à vie existants restent valables. Le mensuel se renouvelle chaque mois, l’annuel est prépayé et se renouvelle chaque année. Prix et validité figurent sur l’écran d’achat. Gérez ou annulez le renouvellement dans les abonnements de votre compte Apple. L’achat à vie ne se renouvelle pas. La restauration des achats est disponible.
 
 La fréquence cardiaque de base et les deux modes BLE restent disponibles lorsque les achats sont en attente, indisponibles ou incomplets. La disponibilité du produit dépend de la version App Store publiée. Si Pro n’est pas encore débloqué sur la Watch, confirmez l'accès au réseau et le même compte Apple, puis rouvrez l'application avant de réessayer. Évitez de payer une deuxième fois.
 
@@ -53,3 +60,11 @@ Pour les retours d’entraînement uniquement, pas pour les diagnostics médicau
 Réglages → Diagnostic de connexion → Durée de fonctionnement et batterie. Démarrez la collecte sur Accueil pour enregistrer automatiquement ; l'ouverture de la page ne démarre pas un entraînement. Synchronisez ou partagez le dernier résumé sans mesures cardiaques individuelles ni identifiants de récepteur. Le calcul de la variation de batterie de l’ensemble de l’appareil nécessite au moins 30 minutes et ne sont pas estimées pendant la charge ou les interruptions de fonctionnement.
 
 Affichage iPad à proximité : cette fonctionnalité gratuite est désactivée par défaut. Lorsque vous l'activez, l'application utilise le réseau local et Bonjour pour découvrir les appareils à proximité. L'iPad doit saisir le code de session aléatoire et l'iPhone doit l'approuver avant que la fréquence cardiaque actuelle, l’heure de la mesure et la catégorie de zone ne soient partagées via le chiffrement TLS. Le code est conservé uniquement en mémoire et expire lorsque le partage s'arrête. L'âge, la fréquence cardiaque au repos, l'historique et les droits d'achat ne sont pas partagés. L'iPad affiche uniquement la lecture actuelle en mémoire ; il ne stocke aucun historique de fréquence cardiaque, ne se jumelle pas à l’Apple Watch et ne relaie pas les données BLE. Gardez les deux applications au premier plan. L'arrêt, la mise en arrière-plan ou la déconnexion mettent fin au partage et les lectures expirées disparaissent. Le développeur ne peut pas accéder à cette connexion locale.
+
+
+## 1.2.0
+
+Connexion cardiaque Garmin (gratuite)
+Transmettez la fréquence en direct via iPhone vers un Edge 530 avec le champ SportHeart Connect IQ à installer séparément. Jumelez un appareil réel dans Garmin Connect et ajoutez le champ à une page de cyclisme. Le champ est actuellement une version de développement à charger manuellement, non publiée dans le Connect IQ Store. Utilisez le relais iPhone et activez explicitement le partage. L’enregistrement d’un champ développeur de fréquence cardiaque dans l’activité FIT est facultatif ; Garmin peut synchroniser les activités selon vos réglages. Ne remplace pas les capteurs cardiaques natifs Garmin et ne garantit ni le calcul de charge d’entraînement ni la compatibilité de tous les modèles.
+
+Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

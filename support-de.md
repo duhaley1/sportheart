@@ -14,7 +14,14 @@ Entwickler: duhaley. Kontakt: 924323178@qq.com. Support: [Sportheart-Repository]
 
 Live-Herzfrequenz, direkte BLE-Übertragung der Watch, BLE-Weiterleitung über das iPhone sowie Starten, Pausieren und Beenden bleiben dauerhaft kostenlos, ohne Zeit- oder Nutzungslimits. Auch das optionale Speichern von Trainings in Apple Health ist kostenlos.
 
-Sport Heart Assistant Pro ist ein optionaler, nicht verbrauchbarer Kauf, der Hinweise bei Verbindungsabbruch, Hinweise beim Überschreiten der oberen Grenze der standardmäßigen aeroben Zone, Dynamic Island- und Sperrbildschirmanzeige, fünf benutzerdefinierte Zonen, Referenzberechnungen und erweitertes Feedback umfasst. Kein Abonnement oder automatische Verlängerung. Das Kaufdialog des App Store zeigt den Endpreis. Verwenden Sie „Käufe wiederherstellen“ in den Einstellungen mit demselben Apple Account. Beide Geräte verifizieren dasselbe Produkt; Separate Käufe sind nicht erforderlich.
+Sport Heart Assistant Pro
+• Haptische Hinweise auf der Watch, wenn ein verbundenes Gerät die Verbindung verliert.
+• Hinweise bei Überschreiten der Obergrenze der Standard-Ausdauerzone.
+• Fünf anpassbare Zonen: Erholung, Fettverbrennung, Aerob, Anaerob und Maximal.
+• Referenzberechnung für Erwachsene oder manuell eingegebene Grenzen.
+• Hinweise, wenn du länger außerhalb der gewählten Zone bist, optional auch unterhalb der Zone und bei Rückkehr.
+• Herzfrequenz in der Dynamic Island und auf dem Sperrbildschirm, mit Zahlenfarben je nach Zone.
+Monatsabo, Jahresabo oder dauerhafter Einmalkauf schalten dieselben Pro-Funktionen frei. Bestehende dauerhafte Käufe bleiben gültig. Monatsabos verlängern sich monatlich, im Voraus bezahlte Jahresabos jährlich. Preis und Gültigkeit stehen im Kaufbildschirm. Abos lassen sich in den Apple-Account-Einstellungen verwalten und kündigen. Der Einmalkauf verlängert sich nicht. Käufe können wiederhergestellt werden.
 
 Die grundlegende Herzfrequenzfunktion und beide BLE-Modi bleiben verfügbar, wenn Einkäufe ausstehen, nicht verfügbar oder unvollständig sind. Die Produktverfügbarkeit hängt von der veröffentlichten App Store-Version ab. Wenn Pro auf der Watch noch nicht freigeschaltet ist, bestätigen Sie den Netzwerkzugriff und dasselbe Apple Account und öffnen Sie dann die App erneut, bevor Sie es erneut versuchen. Vermeiden Sie es, ein zweites Mal zu bezahlen.
 
@@ -54,3 +61,11 @@ Einstellungen → Verbindungsdiagnose → Laufzeit und Akkudaten. Starten Sie di
 
 Anzeige auf einem iPad in der Nähe: Diese kostenlose Funktion ist standardmäßig deaktiviert. Nach dem Aktivieren sucht die App über das lokale Netzwerk und Bonjour nach Geräten in der Nähe. Vor der TLS-verschlüsselten Übertragung von aktueller Herzfrequenz, Messzeit und Zonenkategorie muss der zufällige Sitzungscode auf dem iPad eingegeben und die Freigabe auf dem iPhone bestätigt werden. Der Code bleibt nur im Arbeitsspeicher und verfällt beim Beenden der Freigabe. Alter, Ruheherzfrequenz, Verlauf und Kaufberechtigungen werden nicht geteilt. Das iPad zeigt nur den aktuellen Wert im Arbeitsspeicher an. Es speichert keinen Herzfrequenzverlauf, koppelt sich nicht mit der Apple Watch und leitet keine BLE-Daten weiter. Beide Apps müssen im Vordergrund bleiben. Beenden, Wechsel in den Hintergrund oder Verbindungsabbruch beendet die Freigabe; veraltete Werte verschwinden. Der Entwickler hat keinen Zugriff auf diese lokale Verbindung.
 
+
+
+## 1.2.0
+
+Garmin-Herzfrequenzverbindung (kostenlos)
+Übertrage Live-Herzfrequenz über das iPhone an einen Edge 530 mit dem separaten SportHeart Connect IQ-Datenfeld. Kopple ein echtes Gerät in Garmin Connect, installiere das Feld separat und füge es einer Radfahrseite hinzu. Das Feld ist derzeit nur eine Entwicklungs-Sideload-Version und noch nicht im Connect IQ Store veröffentlicht. Nutze den iPhone-Brückenmodus und aktiviere die Freigabe ausdrücklich. Optional wird ein Entwickler-Herzfrequenzfeld in der FIT-Aktivität gespeichert; Garmin kann Aktivitäten gemäß deinen Einstellungen synchronisieren. Kein Ersatz für native Garmin-Herzfrequenzsensoren und keine Garantie für Trainingslastberechnungen oder alle Modelle.
+
+Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

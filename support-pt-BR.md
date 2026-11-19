@@ -14,7 +14,14 @@ Desenvolvedor: duhaley. Contato: 924323178@qq.com. Suporte: [repositório sporth
 
 A frequência cardíaca em tempo real, a comunicação BLE direta do relógio ou por ponte via iPhone e os controles Iniciar, Pausar e Encerrar são gratuitos para sempre, sem limites de duração ou quantidade de usos. Salvar os treinos opcionalmente no Saúde da Apple também é grátis.
 
-Sport Heart Assistant Pro é uma única compra opcional não consumível que inclui alertas de desconexão, alertas acima do limite da zona aeróbica padrão, exibição na Dynamic Island e Tela Bloqueada, cinco zonas personalizadas, cálculos de referência e feedback avançado. Sem assinatura nem renovação automática. A tela de compra da App Store mostra o preço final. Use Restaurar compras nos Ajustes com a mesma Conta Apple. Os dois dispositivos verificam o mesmo produto; não é necessário comprar duas vezes.
+Sport Heart Assistant Pro
+• Alertas táteis no relógio quando o equipamento conectado se desconecta.
+• Alertas ao ultrapassar o limite da zona aeróbica padrão.
+• Cinco zonas personalizáveis: Recuperação, Queima de gordura, Aeróbica, Anaeróbica e Máxima.
+• Cálculo de referência para adultos ou limites inseridos manualmente.
+• Alertas quando você permanece fora da zona escolhida, com aviso opcional abaixo da zona e ao voltar para ela.
+• Frequência cardíaca na Dynamic Island e na Tela Bloqueada, com cores conforme a zona.
+Escolha assinatura mensal, anual ou compra vitalícia para os mesmos recursos Pro. Compras vitalícias existentes continuam válidas. A mensal renova a cada mês; a anual é pré-paga e renova a cada ano. Veja preço e validade na tela de compra. Gerencie ou cancele a renovação nas assinaturas da sua Conta Apple. A compra vitalícia não renova. É possível restaurar compras.
 
 A frequência cardíaca básica e os dois modos BLE continuam disponíveis quando a compra está pendente, indisponível ou incompleta. A disponibilidade do produto depende da versão publicada na App Store. Se o relógio ainda não tiver desbloqueado os recursos, confira o acesso à internet e o uso da mesma Conta Apple; depois, reabra o app antes de tentar novamente. Evite pagar uma segunda vez.
 
@@ -53,3 +60,11 @@ Apenas para feedback de treino, não para diagnóstico médico nem alertas de em
 Ajustes → Diagnóstico de conexão → Registros de duração e bateria. Inicie a coleta na tela inicial para registrar automaticamente; abrir a página não inicia um treino. Sincronize ou compartilhe o último resumo, sem amostras individuais de frequência cardíaca nem identidades de receptores. A taxa de consumo da bateria do dispositivo inteiro exige pelo menos 30 minutos e não é estimada durante carregamento ou sessões interrompidas.
 
 Tela de um iPad próximo: este recurso gratuito vem desativado. Ao ativá-lo, o app usa a rede local e o Bonjour para descobrir dispositivos próximos. É preciso inserir o código aleatório da sessão no iPad e aprovar no iPhone antes de compartilhar a frequência cardíaca atual, o horário da medição e a categoria da zona com criptografia TLS. O código fica apenas na memória e expira quando o compartilhamento termina. Idade, frequência em repouso, histórico e direitos de compra não são compartilhados. O iPad só exibe a leitura atual na memória; não salva histórico, não emparelha com o Apple Watch nem retransmite dados por BLE. Mantenha os dois apps em primeiro plano. Encerrar a sessão, ir para segundo plano ou desconectar termina o compartilhamento, e as leituras expiradas desaparecem. O desenvolvedor não pode acessar essa conexão local.
+
+
+## 1.2.0
+
+Conexão cardíaca Garmin (grátis)
+Envie a frequência ao vivo pelo iPhone para um Edge 530 com o campo SportHeart Connect IQ, instalado separadamente. Emparelhe um aparelho físico no Garmin Connect e adicione o campo a uma página de ciclismo. Atualmente o campo é uma versão de desenvolvimento de instalação manual, ainda não publicada na Connect IQ Store. Use o modo ponte do iPhone e ative o compartilhamento explicitamente. Salvar um campo de desenvolvedor de frequência cardíaca na atividade FIT é opcional; o Garmin pode sincronizar atividades conforme seus ajustes. Não substitui sensores cardíacos nativos Garmin nem garante cálculo de carga de treino ou compatibilidade com todos os modelos.
+
+Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
