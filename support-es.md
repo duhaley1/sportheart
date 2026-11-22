@@ -65,6 +65,13 @@ Pantalla de un iPad cercano: esta función gratuita está desactivada de forma p
 ## 1.2.0
 
 Conexión cardíaca Garmin (gratis)
-Envía la frecuencia en directo a un Edge 530 mediante iPhone y el campo SportHeart Connect IQ, que se instala por separado. Enlaza un dispositivo real en Garmin Connect y añade el campo a una página de ciclismo. Actualmente el campo es una versión de desarrollo de instalación manual, no publicada en Connect IQ Store. Usa el modo puente del iPhone y activa el uso compartido. Guardar el campo de desarrollador de frecuencia cardíaca en la actividad FIT es opcional; Garmin puede sincronizar actividades según tus ajustes. No sustituye sensores cardíacos nativos Garmin ni garantiza cálculos de carga de entrenamiento o compatibilidad con todos los modelos.
+Envía la frecuencia en directo a un Edge 530 mediante iPhone y el campo SportHeart Connect IQ, que se instala por separado. Enlaza un dispositivo real en Garmin Connect y añade el campo a una página de ciclismo. El campo SportHeart está disponible gratis en Connect IQ Store. Usa el modo puente del iPhone y activa el uso compartido. Guardar el campo de desarrollador de frecuencia cardíaca en la actividad FIT es opcional; Garmin puede sincronizar actividades según tus ajustes. No sustituye sensores cardíacos nativos Garmin ni garantiza cálculos de carga de entrenamiento o compatibilidad con todos los modelos.
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[Compatibilidad y alcance de pruebas](compatibility-es.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

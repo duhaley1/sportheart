@@ -65,6 +65,13 @@ Affichage iPad à proximité : cette fonctionnalité gratuite est désactivée 
 ## 1.2.0
 
 Connexion cardiaque Garmin (gratuite)
-Transmettez la fréquence en direct via iPhone vers un Edge 530 avec le champ SportHeart Connect IQ à installer séparément. Jumelez un appareil réel dans Garmin Connect et ajoutez le champ à une page de cyclisme. Le champ est actuellement une version de développement à charger manuellement, non publiée dans le Connect IQ Store. Utilisez le relais iPhone et activez explicitement le partage. L’enregistrement d’un champ développeur de fréquence cardiaque dans l’activité FIT est facultatif ; Garmin peut synchroniser les activités selon vos réglages. Ne remplace pas les capteurs cardiaques natifs Garmin et ne garantit ni le calcul de charge d’entraînement ni la compatibilité de tous les modèles.
+Transmettez la fréquence en direct via iPhone vers un Edge 530 avec le champ SportHeart Connect IQ à installer séparément. Jumelez un appareil réel dans Garmin Connect et ajoutez le champ à une page de cyclisme. Le champ SportHeart est disponible gratuitement dans le Connect IQ Store. Utilisez le relais iPhone et activez explicitement le partage. L’enregistrement d’un champ développeur de fréquence cardiaque dans l’activité FIT est facultatif ; Garmin peut synchroniser les activités selon vos réglages. Ne remplace pas les capteurs cardiaques natifs Garmin et ne garantit ni le calcul de charge d’entraînement ni la compatibilité de tous les modèles.
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[Compatibilité et portée des tests](compatibility-fr.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

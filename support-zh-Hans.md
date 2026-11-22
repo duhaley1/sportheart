@@ -66,6 +66,13 @@
 ## 1.2.0
 
 Garmin 心率连接（免费）
-通过 iPhone 和配套 SportHeart Connect IQ 数据字段向 Edge 530 发送实时心率。需先在 Garmin Connect 配对真实码表，单独安装数据字段并添加至骑行页面；当前字段为开发侧载版，尚未在 Connect IQ 商店发布。选择手机桥接模式并主动开启共享。可选保存至码表 FIT 活动的开发者心率字段，活动可能按 Garmin 设置同步。不会替代 Garmin 原生心率传感器或保证训练负荷计算；不代表全型号兼容。
+通过 iPhone 和配套 SportHeart Connect IQ 数据字段向 Edge 530 发送实时心率。需先在 Garmin Connect 配对真实码表，单独安装数据字段并添加至骑行页面；SportHeart 数据字段已在 Connect IQ 商店免费提供。选择手机桥接模式并主动开启共享。可选保存至码表 FIT 活动的开发者心率字段，活动可能按 Garmin 设置同步。不会替代 Garmin 原生心率传感器或保证训练负荷计算；不代表全型号兼容。
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[查看兼容性与测试范围](compatibility-zh-Hans.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

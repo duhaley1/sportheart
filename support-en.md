@@ -66,6 +66,13 @@ Nearby iPad display: This free feature is off by default. When you enable it, th
 ## 1.2.0
 
 Garmin heart-rate connection (free)
-Send live heart rate through iPhone to an Edge 530 using the companion SportHeart Connect IQ data field. Pair a physical device in Garmin Connect, separately install the field and add it to a cycling page. The field is currently a development sideload and is not yet published in the Connect IQ Store. Use Phone bridge mode and explicitly enable sharing. Optionally save a developer heart-rate field in the FIT activity; Garmin may sync activities according to your settings. This does not replace native Garmin heart-rate sensors or guarantee training-load calculations. Other models are not implied to be compatible.
+Send live heart rate through iPhone to an Edge 530 using the companion SportHeart Connect IQ data field. Pair a physical device in Garmin Connect, separately install the field and add it to a cycling page. The SportHeart data field is available free in the Connect IQ Store. Use Phone bridge mode and explicitly enable sharing. Optionally save a developer heart-rate field in the FIT activity; Garmin may sync activities according to your settings. This does not replace native Garmin heart-rate sensors or guarantee training-load calculations. Other models are not implied to be compatible.
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[Compatibility and testing scope](compatibility-en.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

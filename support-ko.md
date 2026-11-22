@@ -65,6 +65,13 @@ Apple 건강에 저장은 선택 사항이며 다음 운동부터 적용됩니�
 ## 1.2.0
 
 Garmin 심박수 연결(무료)
-iPhone과 별도 설치하는 SportHeart Connect IQ 데이터 필드로 Edge 530에 실시간 심박수를 보냅니다. Garmin Connect에서 실제 기기를 페어링하고 필드를 설치한 뒤 사이클링 페이지에 추가하세요. 현재 필드는 개발용 수동 설치 버전이며 Connect IQ Store에는 아직 게시되지 않았습니다. iPhone 브리지 모드에서 공유를 직접 켜세요. FIT 활동에 개발자 심박수 필드를 저장하는 것은 선택 사항이며, Garmin 설정에 따라 활동이 동기화될 수 있습니다. Garmin 기본 심박 센서를 대체하거나 훈련 부하 계산 및 모든 모델 호환을 보장하지 않습니다.
+iPhone과 별도 설치하는 SportHeart Connect IQ 데이터 필드로 Edge 530에 실시간 심박수를 보냅니다. Garmin Connect에서 실제 기기를 페어링하고 필드를 설치한 뒤 사이클링 페이지에 추가하세요. SportHeart 데이터 필드는 Connect IQ Store에서 무료로 제공됩니다. iPhone 브리지 모드에서 공유를 직접 켜세요. FIT 활동에 개발자 심박수 필드를 저장하는 것은 선택 사항이며, Garmin 설정에 따라 활동이 동기화될 수 있습니다. Garmin 기본 심박 센서를 대체하거나 훈련 부하 계산 및 모든 모델 호환을 보장하지 않습니다.
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[호환성 및 테스트 범위](compatibility-ko.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

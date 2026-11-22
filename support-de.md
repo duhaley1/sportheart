@@ -66,6 +66,13 @@ Anzeige auf einem iPad in der Nähe: Diese kostenlose Funktion ist standardmäß
 ## 1.2.0
 
 Garmin-Herzfrequenzverbindung (kostenlos)
-Übertrage Live-Herzfrequenz über das iPhone an einen Edge 530 mit dem separaten SportHeart Connect IQ-Datenfeld. Kopple ein echtes Gerät in Garmin Connect, installiere das Feld separat und füge es einer Radfahrseite hinzu. Das Feld ist derzeit nur eine Entwicklungs-Sideload-Version und noch nicht im Connect IQ Store veröffentlicht. Nutze den iPhone-Brückenmodus und aktiviere die Freigabe ausdrücklich. Optional wird ein Entwickler-Herzfrequenzfeld in der FIT-Aktivität gespeichert; Garmin kann Aktivitäten gemäß deinen Einstellungen synchronisieren. Kein Ersatz für native Garmin-Herzfrequenzsensoren und keine Garantie für Trainingslastberechnungen oder alle Modelle.
+Übertrage Live-Herzfrequenz über das iPhone an einen Edge 530 mit dem separaten SportHeart Connect IQ-Datenfeld. Kopple ein echtes Gerät in Garmin Connect, installiere das Feld separat und füge es einer Radfahrseite hinzu. Das SportHeart-Datenfeld ist kostenlos im Connect IQ Store verfügbar. Nutze den iPhone-Brückenmodus und aktiviere die Freigabe ausdrücklich. Optional wird ein Entwickler-Herzfrequenzfeld in der FIT-Aktivität gespeichert; Garmin kann Aktivitäten gemäß deinen Einstellungen synchronisieren. Kein Ersatz für native Garmin-Herzfrequenzsensoren und keine Garantie für Trainingslastberechnungen oder alle Modelle.
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[Kompatibilität und Testumfang](compatibility-de.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a

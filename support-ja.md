@@ -65,6 +65,13 @@ Apple ヘルスケアへの保存は任意で、次のワークアウトから�
 ## 1.2.0
 
 Garmin 心拍接続（無料）
-iPhone と専用 SportHeart Connect IQ データフィールドを使い Edge 530 にリアルタイム心拍を送信します。Garmin Connect で実機をペアリングし、フィールドを別途インストールしてサイクリング画面に追加してください。現在は開発用サイドロード版で、Connect IQ ストアでは未公開です。スマートフォン中継モードで共有を明示的に有効にします。FIT アクティビティへの開発者心拍フィールド保存は任意です。Garmin の設定によりアクティビティが同期される場合があります。Garmin 標準心拍センサーの代替やトレーニング負荷計算、全機種互換を保証するものではありません。
+iPhone と専用 SportHeart Connect IQ データフィールドを使い Edge 530 にリアルタイム心拍を送信します。Garmin Connect で実機をペアリングし、フィールドを別途インストールしてサイクリング画面に追加してください。SportHeart データ項目は Connect IQ ストアで無料公開されています。スマートフォン中継モードで共有を明示的に有効にします。FIT アクティビティへの開発者心拍フィールド保存は任意です。Garmin の設定によりアクティビティが同期される場合があります。Garmin 標準心拍センサーの代替やトレーニング負荷計算、全機種互換を保証するものではありません。
 
 Apple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+
+[互換性と検証範囲](compatibility-ja.html)
+
+App Store: https://apps.apple.com/app/id6827442593
+
+Connect IQ: https://apps.garmin.com/zh-CN/apps/0b750e18-5b36-4cc7-9470-b8f996dfa94a
