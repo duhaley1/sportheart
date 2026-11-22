@@ -14,11 +14,11 @@ Erzwungenes Beenden, Neustart, Wrist-Off-Sperre und Display-Ruhezustand sind unt
 
 Edge 530 nutzt ein Connect IQ-Datenfeld. SportHeart nicht in der Herzfrequenzsensorliste koppeln.
 
-1. Radcomputer in Garmin Connect koppeln und hier wählen.
+Radcomputer in Garmin Connect koppeln. Dann in Sport Heart Assistant / Einstellungen / Garmin-Herzfrequenz das Gerät wählen.
 
 2. SportHeart installieren und als Datenfeld zur Radseite hinzufügen.
 
-3. Telefon-Relay wählen, Messung auf Uhr starten, dann hier Teilen aktivieren.
+Telefon-Relay auf der Uhr wählen und starten. Auf dem iPhone unter Garmin-Herzfrequenz das Teilen einschalten.
 
 Empfang bestätigt keine Anzeige. Herzfrequenz am Radcomputer prüfen.
 

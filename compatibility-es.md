@@ -14,11 +14,11 @@ Forzar el cierre, reiniciar, bloquear al quitarse el reloj y apagar la pantalla 
 
 Edge 530 usa un campo Connect IQ. No enlaces SportHeart en su lista de sensores cardíacos.
 
-1. Vincula el ciclocomputador en Garmin Connect y selecciónalo aquí.
+Vincula el ciclocomputador en Garmin Connect y selecciónalo en Sport Heart Assistant / Ajustes / Frecuencia cardíaca Garmin.
 
 2. Instala SportHeart y añade su campo a una pantalla de ciclismo.
 
-3. Elige modo puente, inicia la medición en el reloj y activa compartir aquí.
+Elige el puente del teléfono e inicia en el reloj. En iPhone, activa compartir en Frecuencia cardíaca Garmin.
 
 Un recibo no confirma que se muestre el pulso. Comprueba la pantalla del ciclocomputador.
 

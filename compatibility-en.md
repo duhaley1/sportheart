@@ -14,11 +14,11 @@ Force quitting, restarting, wrist-off locking, and the display sleeping are diff
 
 Edge 530 uses a Connect IQ data field. Do not pair SportHeart in its heart-rate sensor list.
 
-1. Pair your bike computer in Garmin Connect, then select it here.
+Pair the bike computer in Garmin Connect. Then open Sport Heart Assistant / Settings / Garmin heart rate and select your device.
 
 2. Install SportHeart on the bike computer and add its data field to a cycling screen.
 
-3. Select phone relay mode, start collection on your watch, then enable sharing here.
+Select Phone bridge and start on Watch. On iPhone, enable sharing on the Garmin heart rate page.
 
 A receipt does not confirm that heart rate is displayed. Check the bike computer screen.
 

@@ -14,11 +14,11 @@ La fermeture forcée, le redémarrage, le verrouillage hors du poignet et la mis
 
 Edge 530 utilise un champ Connect IQ. Ne jumelez pas SportHeart dans la liste des capteurs cardiaques.
 
-1. Associez le compteur dans Garmin Connect, puis choisissez-le ici.
+Jumelez le compteur dans Garmin Connect, puis ouvrez Sport Heart Assistant / Réglages / Fréquence cardiaque Garmin et sélectionnez-le.
 
 2. Installez SportHeart et ajoutez son champ à un écran de cyclisme.
 
-3. Choisissez le relais téléphone, démarrez la mesure sur la montre, puis activez le partage ici.
+Choisissez le relais téléphone et démarrez sur la montre. Sur iPhone, activez le partage dans Fréquence cardiaque Garmin.
 
 Un accusé de réception ne confirme pas l’affichage. Vérifiez l’écran du compteur.
 
